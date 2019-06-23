@@ -130,7 +130,7 @@ render(){
         </Sider>
         <Layout>
           <Header style={{ background: '#fff', padding: 0 }}>
-            탑메뉴 나중에 분리
+            
           </Header>
           <Content style={{ margin: '0 16px' }}>
             <h3>Test Table</h3>
