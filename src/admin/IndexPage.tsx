@@ -130,7 +130,7 @@ render(){
         </Sider>
         <Layout>
           <Header style={{ background: '#fff', padding: 0 }}>
-            
+            <div>바꿔보자</div>
           </Header>
           <Content style={{ margin: '0 16px' }}>
             <h3>Test Table</h3>
